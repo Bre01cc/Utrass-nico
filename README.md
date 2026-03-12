@@ -20,7 +20,7 @@ Além disso, o terminal exibe uma mensagem indicando uma ameaça ou segurança.
 - ESP32
 
 ## Imagem da prática
-<img width="473" height="705" alt="image" src="https://github.com/user-attachments/assets/396434af-34ce-4302-b8d0-e065a7c58936" />
+<img width="273" height="300" alt="image" src="https://github.com/user-attachments/assets/396434af-34ce-4302-b8d0-e065a7c58936" />
 
 ## Autor
 - [Breno Reis](https://www.linkedin.com/in/breno-oliveira-assis-reis-203010351/)
